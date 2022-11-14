@@ -1,4 +1,4 @@
-#$ TITLE: UAV Tech - NetcatFPV - OSD
+#$ TITLE: NetcatFPV - OSD Presets
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY

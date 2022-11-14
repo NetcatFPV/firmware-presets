@@ -915,8 +915,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/UAV_tech_NetcatFPV_v1.txt",
-      "hash": "477f60513abe64cd016e3b5f3a1c5aa81559c40c3a24f8432ca632d1b63f825d",
-      "title": "UAV Tech - NetcatFPV - OSD",
+      "hash": "2158639c5ffc70f9c1f1ff4da72b305398cd99b2100ed60af3cc3df32e9db342",
+      "title": "NetcatFPV - OSD Presets",
       "firmware_version": [
         "4.3"
       ],
