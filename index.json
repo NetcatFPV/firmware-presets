@@ -915,8 +915,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/UAV_tech_NetcatFPV_v1.txt",
-      "hash": "aaf4750dd6c7fa617a06a9d3f83c0af26944b086e9d3e2af23b24ac8c7b181ba",
-      "title": "UAV Tech - DJI",
+      "hash": "477f60513abe64cd016e3b5f3a1c5aa81559c40c3a24f8432ca632d1b63f825d",
+      "title": "UAV Tech - NetcatFPV - OSD",
       "firmware_version": [
         "4.3"
       ],
